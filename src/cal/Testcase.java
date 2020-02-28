@@ -10,6 +10,7 @@ class Testcase {
 	void test() {
 		Calculator c = new Calculator();
 		assertEquals(c.add(2,3),5);
+		
 	}
 
 }
