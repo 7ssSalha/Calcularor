@@ -8,6 +8,7 @@ import org.junit.Test;
 
 import cal.Calculator;
 
+@SuppressWarnings("unused")
 public class Testcase {
 
 	@Test
